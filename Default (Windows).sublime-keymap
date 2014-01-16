@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+k", "ctrl+k"], "command": "global_bookmark_toggle" },
+	{ "keys": ["ctrl+k", "ctrl+n"], "command": "global_bookmark_next" },
+	{ "keys": ["ctrl+k", "ctrl+l"], "command": "global_bookmark_clear" }
+]
+
